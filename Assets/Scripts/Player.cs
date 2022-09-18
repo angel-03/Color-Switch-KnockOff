@@ -15,9 +15,7 @@ public class Player : MonoBehaviour
     public Color colPurple;
     public Color colPink;
 
-
     public GameObject Textui;
-
 
     private void Start()
     {
